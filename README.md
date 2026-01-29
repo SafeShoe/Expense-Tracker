@@ -6,8 +6,7 @@ A full-stack web application that allows users to record, view, update, and dele
 
 
 # Features 
-User registration, Add, view, edit, and delete expenses 
-data storage using a database 
+User registration, Add, view, edit, delete expenses and data storage using a database 
 
 
 # Tech
