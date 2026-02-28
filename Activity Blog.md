@@ -47,7 +47,7 @@ Milestone 01 planning tasks have been completed and documented. Tasks were moved
 
 ## Entry 3: Back-End Setup & Database Design
 
-#### Date: 02/26/2026
+#### Date: 02/27/2026
 
 ### Work Completed
 - Installed Node.js and Git
