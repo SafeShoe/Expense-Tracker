@@ -56,13 +56,13 @@ Milestone 01 planning tasks have been completed and documented. Tasks were moved
 - Initialized Express server
 - Created server entry point (server.js)
 - Structured API routes
-- Designed ER diagram (Users and Expenses tables)
+- Designed ER diagram 
 - Wrote SQL CREATE TABLE statements
 - Linked local project to GitHub
 
 ### Decisions Made
 - Deferred full authentication to Milestone 03
-- Designed database with foreign key (user_id → expenses)
+- Designed database with foreign key 
 
 ### Blockers / Issues
 - Git merge conflict during first push
@@ -70,4 +70,4 @@ Milestone 01 planning tasks have been completed and documented. Tasks were moved
 
 ### Resolution
 - Resolved merge with git pull
-- Adjusted execution policy to allow npm scripts
+
