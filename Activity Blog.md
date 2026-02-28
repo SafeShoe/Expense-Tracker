@@ -59,7 +59,7 @@ Milestone 01 planning tasks have been completed and documented. Tasks were moved
 - Linked local project to GitHub
 
 ### Decisions Made
-- Deferred full authentication to Milestone 03
+- Deferred full authentication to Milestone 03 so as of right now can login with any email and password
 - Designed database with foreign key 
 
 ### Blockers / Issues
