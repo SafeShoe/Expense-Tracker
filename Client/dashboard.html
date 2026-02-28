@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Dashboard - Expense Tracker</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <nav>
+        <a href="dashboard.html">Dashboard</a>
+        <a href="add-expense.html">Add Expense</a>
+        <a href="#" id="logoutBtn">Logout</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container">
+    <h3>Your Expenses</h3>
+
+    <table class="table" id="expensesTable">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Amount</th>
+          <th>Date</th>
+          <th>Notes</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody id="expensesBody"></tbody>
+    </table>
+  </div>
+
+  <script src="js/expenses.js"></script>
+</body>
+</html>

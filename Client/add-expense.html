@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Add Expense - Expense Tracker</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <nav>
+        <a href="dashboard.html">Dashboard</a>
+        <a href="#" id="logoutBtn">Logout</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container">
+    <h3>Add Expense</h3>
+
+    <form id="addExpenseForm">
+      <label>Title</label>
+      <input type="text" id="title" required />
+
+      <label>Amount</label>
+      <input type="number" id="amount" step="0.01" required />
+
+      <label>Date</label>
+      <input type="date" id="expense_date" required />
+
+      <label>Notes (optional)</label>
+      <textarea id="notes"></textarea>
+
+      <button type="submit">Save Expense</button>
+    </form>
+  </div>
+
+  <script src="js/expenses.js"></script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f6f6f6;
+}
+
+header {
+  background: #1f2937;
+  color: white;
+  padding: 16px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+}
+
+nav a {
+  color: black;
+  margin-right: 12px;
+  text-decoration: none;
+}
+
+input, button, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.actions button {
+  width: auto;
+  margin-right: 8px;
+}
+
+header h2 {
+  color: #000000;  
+}
+header .container {
+  display: flex;
+  justify-content: center;
+}

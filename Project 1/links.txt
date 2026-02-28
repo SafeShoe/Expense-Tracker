@@ -1,0 +1,8 @@
+REPO:
+https://github.com/SafeShoe/Expense-Tracker
+
+Kanban:
+https://github.com/users/SafeShoe/projects/1
+
+Blog:
+https://github.com/SafeShoe/Expense-Tracker/blob/main/Activity%20Blog.md
