@@ -16,5 +16,5 @@ JS
 
 
 # Project Status 
-Milestone 01 – Planning and Design|
+Milestone 01 – Planning and Design#
 Milestone 02 - Front end, back end and design
