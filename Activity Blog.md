@@ -20,7 +20,6 @@ This session focused on defining the scope and structure of the Personal Expense
 Milestone 01 planning tasks have been completed and documented. Tasks were moved on Kanban board to show progress and completion.
 
 
----
 
 ## Entry 2: Front-End Implementation
 
@@ -45,7 +44,6 @@ Milestone 01 planning tasks have been completed and documented. Tasks were moved
 - Adjusted CSS styling and improved contrast
 
 
----
 
 ## Entry 3: Back-End Setup & Database Design
 
