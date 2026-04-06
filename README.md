@@ -25,7 +25,7 @@ Milestone 03 - Core functionality is complete, with final testing and documentat
 ###
 ### Execution Instructions 
 - Clone the repository from GitHub
-- Open the project in VS Code
+- Open the project 
 # Backend Setup
 - Navigate to the Server folder
 - Run npm install to install dependencies
