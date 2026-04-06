@@ -23,7 +23,7 @@ Milestone 03 - Core functionality is complete, with final testing and documentat
 
 
 
-#### Execution Instructions 
+###Execution Instructions 
 - Clone the repository from GitHub
 - Open the project in VS Code
 # Backend Setup
