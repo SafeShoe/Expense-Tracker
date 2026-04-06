@@ -18,3 +18,4 @@ JS
 # Project Status 
 Milestone 01 – Planning and Design
 Milestone 02 - Front end, back end and design
+Milestone 03 - Core functionality is complete, with final testing and documentation in progress
